@@ -1,0 +1,11 @@
+beautifulsoup4==4.10.0
+bs4==4.10.0
+numpy==1.21.2
+logging==0.4.9.6
+os-sys==2.1.4
+pandas==1.4.1
+psycopg2==2.8.6
+python-decouple==3.6
+requests==2.27.1
+SQLAlchemy==1.4.2.32
+urllib3==1.26.8
